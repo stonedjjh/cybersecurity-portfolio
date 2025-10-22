@@ -37,3 +37,41 @@ Tu evaluación de riesgos es una guía para tus decisiones. A menudo, presentas 
 El propósito de este paso es la responsabilidad. Es un punto de control para que un funcionario sénior confirme que todos los documentos, controles y evaluaciones requeridos se pusieron en práctica y funcionan según lo previsto. Durante este paso, alguien reúne y presenta todos los documentos: evaluación de riesgos, plan de seguridad, plan de evaluación e informes de evaluación.
 
 7. **Monitorear** se monitorean continuamente los controles y riesgos. También debes realizar y responder a las evaluaciones de acuerdo con el plan de evaluación.
+
+## La Evaluación de riesgos
+
+La evaluación de riesgos es un proceso en el que se identifican los riesgos, se evalúa su impacto y se decide qué hacer al respecto.
+
+Durante la evaluación de riesgos, respondes a las siguientes preguntas:
+
+- ¿Cuáles son nuestros activos?
+
+- ¿Cuales son los riesgos?(Internos, Externos, Múltiples partes)
+
+- ¿Cómo afectarían esos riesgos a nuestra organización?
+
+- ¿Qué riesgos toleraremos y para cuáles debemos planificar?
+
+## Identificación de riesgos
+
+La evaluación de riesgos se inicia identificando los riesgos, es un proceso para encontrar vulnerabilidades y amenazas potenciales en los sistemas y datos de una organización, evaluando su probabilidad e impacto para priorizar la mitigación. Se comienza inventariando todos los activos de TI, como dispositivos, software y datos, y se analiza cómo podrían ser afectados por ataques.
+
+## Impacto del riesgo
+
+Luego de identificar los riesgos, predices las consecuencias o el impacto que tendrá cada evento de riesgo, si es que ocurre.
+
+- Analice la probabilidad de que ocurra cada amenaza y el posible impacto que tendría en los objetivos comerciales de la organización.
+
+- Esto ayuda a priorizar los riesgos, centrándose primero en aquellos que representan una mayor amenaza.
+
+> [!TIP]
+>
+> - No olvide considerar los riesgos que provienen de proveedores externos y socios comerciales, especialmente si su negocio depende de soluciones basadas en la nube.
+>
+> - Evalúe riesgos en áreas concretas como el correo electrónico (phishing, malware), los dispositivos de Internet de las Cosas (IoT), las redes y los servidores web.
+
+## Tolerancia al riesgo
+
+Luego de determinar los impactos potenciales, debes decidir qué riesgos se pueden tolerar y cuáles se deben controlar.
+
+Es el nivel máximo de riesgo que una organización está dispuesta a aceptar para lograr sus objetivos estratégicos, definiendo los límites operativos para la toma de decisiones y la respuesta a incidentes
