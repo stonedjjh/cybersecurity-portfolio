@@ -17,7 +17,7 @@
 | Insignia | Certificación | Plataforma | Fecha de Emisión | Enlace de Verificación |
 | :---: | :--- | :--- | :--- | :--- |
 | <img src="images/badge/certificado-de-ciberseguridad-de-google.png" alt="Insignia Google Cybersecurity" width="60"/> | **Certificado de Ciberseguridad de Google** | Google / Coursera | 18 de Febrero, 2025 | [Ver en Credly](https://www.credly.com/earner/earned/badge/bb3cf624-caac-40e2-88d4-c5143a73fa5d) |
-| <img src="images/badge/cybersecurity-fundamentals.png" alt="Insignia Cybersecurity Fundamentals" width="60"/> | **Cybersecurity Fundamentals** | [Plataforma del Curso] | 25 de Marzo, 2025 | [Ver en Credly](https://www.credly.com/earner/earned/badge/492722b6-67f9-4227-8708-545c39e70e0e) |
+| <img src="images/badge/cybersecurity-fundamentals.png" alt="Insignia Cybersecurity Fundamentals" width="60"/> | **Cybersecurity Fundamentals** | IBM SkillsBuild | 25 de Marzo, 2025 | [Ver en Credly](https://www.credly.com/earner/earned/badge/492722b6-67f9-4227-8708-545c39e70e0e) |
 | <img src="images/badge/opswat-introduction-to-critical-infrastructure-protection-icip.png" alt="Insignia OPSWAT ICIP" width="60"/> | **OPSWAT: Intro. a Protección de Infraestructura Crítica (ICIP)** | OPSWAT | 05 de Diciembre, 2024 | [Ver en Credly](https://www.credly.com/earner/earned/badge/8294ab98-8b32-4a27-9fd8-7375962e956c) |
 | <img src="images/badge/governance-risk-compliance-and-data-privacy.png" alt="Insignia GRC IBM" width="60"/> | **Governance, Risk, Compliance, and Data Privacy** | IBM SkillsBuild | 22 de Octubre, 2025 | [Ver en Credly](https://www.credly.com/earner/earned/badge/f76ec954-d7d8-4d76-90a4-cb4e3a6c7986) |
 
