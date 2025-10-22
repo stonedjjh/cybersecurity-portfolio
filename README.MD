@@ -27,8 +27,9 @@
 
 | Directorio | Contenido | Objetivo |
 | :--- | :--- | :--- |
-| **`Datos/`** | **Notas teóricas** y resúmenes de módulos. (Ej. Triada CIA, Controles de Seguridad). | **Documentar el conocimiento teórico y fundamental.** |
+| **`Datos/`** | **Notas teóricas** y resúmenes de módulos. (Ej. Triada CIA, Controles de Seguridad). | Documentar el conocimiento teórico y fundamental. |
 | **`Gobernanza _Riesgo_Cumplimineto(GRC)`** | **Gobernanza, Riesgo, Cumplimiento y Privacidad de Datos (GRC)**. | Contiene los archivos sobre la estructura legal, riesgos y cumplimiento. |
+| **`Herramientas/`** |**Archivos Markdown detallando el uso y análisis de herramientas de seguridad** (Ej. rkhunter.md).|Demostrar la experiencia práctica y el dominio en el manejo de utilidades de ciberseguridad.|
 | **`Docs/`** | **Documentación de Cursos y Plantillas Formales**. (Ej. Guías de compliance, formatos de cursos). | Servir como un repositorio de documentación formal y estándares. |
 | **`Docs/Mis respuestas/`** | **Ejercicios de documentación llenados** (respuestas a plantillas). | Demostrar la capacidad de aplicar marcos en escenarios reales. |
 | **`images/badge/`** | Archivos de imagen para las insignias y certificaciones. | Soporte visual para la sección de Certificaciones. |
