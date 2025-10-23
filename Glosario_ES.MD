@@ -42,7 +42,7 @@
 | **Pensamiento crítico** | La capacidad de analizar objetivamente la información y formar juicios razonados. |
 | **Phishing** | Intento fraudulento de obtener información sensible haciéndose pasar por una entidad de confianza a través de comunicación electrónica. |
 | **Phishing general** | Un ataque de phishing donde los atacantes envían correos electrónicos a un grupo masivo y esperan a ver quién responde. |
-| **Phishing por SMS (Smishing)** | Un ataque de phishing por mensaje de texto. (Nota: tu definición original decía "a través de un motor de búsqueda", que no es estándar para smishing. Se corrigió a "mensaje de texto"). |
+| **Phishing por SMS (Smishing)** | Un ataque de phishing por mensaje de texto.|
 | **Phishing dirigido (Spear phishing)** | Versión más dirigida del phishing donde los atacantes adaptan su enfoque a un individuo u organización específicos. |
 | **Phishing por voz (Vishing)** | Un ataque donde un atacante utiliza llamadas telefónicas en lugar de correos electrónicos para estafar a individuos. |
 | **Prueba de penetración (Penetration testing)** | Una sólida estrategia de defensa donde especialistas en seguridad simulan ciberataques para encontrar vulnerabilidades antes que los actores maliciosos. |
