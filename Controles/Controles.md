@@ -1,14 +1,14 @@
 # Los controles son medidas que se pueden tomar para mitigar los riesgos. Los controles pueden ser administrativos, físicos o técnicos
 
-### Controles administrativos
+## Controles administrativos
 
 **Los controles administrativos:** son directrices, políticas y procedimientos escritos para cumplir y aplicar los objetivos de seguridad. Por ejemplo, tu escuela o lugar de trabajo puede tener una política de contraseñas que especifique los requisitos como la longitud mínima y los tipos de caracteres que debe incluir.
 
-### Controles físicos
+## Controles físicos
 
 **Los controles físicos:** son dispositivos o estructuras diseñados para limitar el acceso a áreas o dispositivos que contienen datos confidenciales. Las áreas protegidas pueden ser edificios, oficinas o salas de servidores, por nombrar algunos ejemplos. Los controles físicos pueden incluir cercas, cerraduras, tarjetas de acceso, cámaras de seguridad, alarmas y gabinetes.
 
-### Controles técnicos
+## Controles técnicos
 
 **Los controles técnicos:** son el hardware o el software que ayuda a proteger los datos o los procesos. Los siguientes ejemplos son controles técnicos estándar:
 
