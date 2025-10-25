@@ -1,0 +1,9 @@
+# Tipos de Control y Funciones
+
+El siguiente gráfico ilustra algunas funciones distintivas de los controles administrativos, físicos y técnicos. Estos controles se clasifican según sus funciones principales: preventivas, detectivas, disuasorias y correctivas. Al alinear los tipos de control con sus respectivas funciones, puedes entender claramente cómo cada medida contribuye a proteger los activos, la información y el personal de una organización.
+
+| Tipo de Control | Preventivo | Detectivo | Disuasorio | Correctivo |
+| :--- | :--- | :--- | :--- | :--- |
+| **Administrativo** | Políticas de contratación/despido<br>Clasificación de datos<br>Separación de funciones<br>Vacaciones obligatorias | Auditorías y revisiones regulares<br>Monitoreo de actividad de empleados<br>Sistemas de informes anónimos | Políticas de consecuencias por violación<br>Capacitación en concienciación (riesgos/daños) | Plan de Continuidad del Negocio (BCP)<br>Plan de Respuesta a Incidentes (IR) |
+| **Físico** | Puertas, Cerraduras, Vallas<br>Guardias de seguridad<br>Recepciones, Iluminación | Cámaras de vigilancia<br>Sensores de movimiento<br>Sistemas de monitoreo ambiental<br>Dispositivos de detección de manipulación | Guardias de seguridad<br>Recepciones<br>Iluminación | Reparar controles rotos<br>Desactivar y re-emitir tarjetas de acceso perdidas/robadas |
+| **Técnico** | Software antivirus<br>Sistemas de Prevención de Intrusiones (IPS)<br>Autenticación Multifactor (MFA)<br>Cortafuegos (Firewalls)<br>Listas de Control de Acceso (ACL) | Honeypots<br>Sistemas de Detección de Intrusiones (IDS)<br>Sistemas de Gestión de Información y Eventos de Seguridad (SIEM) | Carteles con advertencias legales<br>Acuerdos de código de conducta | Realizar parches de vulnerabilidad<br>Cuarentena de virus detectados<br>Reiniciar el sistema |
