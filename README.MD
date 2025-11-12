@@ -21,6 +21,7 @@
 | <img src="images/badge/introduction-to-cybersecurity-tools-and-cyberattack.png" alt="Insignia Intro. Herramientas y Ciberataques" width="60"/> | **Introduction to Cybersecurity Tools and Cyberattack**           | IBM SkillsBuild   | 02 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/1e9f4f76-a0d3-4e91-acb9-57d2434ca5d3/public_url)   |
 |       <img src="images/badge/opswat-introduction-to-critical-infrastructure-protection-icip.png" alt="Insignia OPSWAT ICIP" width="60"/>       | **OPSWAT: Intro. a Protección de Infraestructura Crítica (ICIP)** | OPSWAT            | 05 de Diciembre, 2024 | [Ver en Credly](https://www.credly.com/earner/earned/badge/8294ab98-8b32-4a27-9fd8-7375962e956c) |
 |                  <img src="images/badge/governance-risk-compliance-and-data-privacy.png" alt="Insignia GRC IBM" width="60"/>                   | **Governance, Risk, Compliance, and Data Privacy**                | IBM SkillsBuild   | 22 de Octubre, 2025   | [Ver en Credly](https://www.credly.com/earner/earned/badge/f76ec954-d7d8-4d76-90a4-cb4e3a6c7986) |
+| <img src="images/badge/vulnerability-management.png" alt="Insignia Vulnerability Management" width="60"/> | **Vulnerability Management**                                     | IBM SkillsBuild            | 12 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/89ae4c2d-9574-47b5-9917-6717a79170db/public_url) |
 
 ---
 
