@@ -4,7 +4,7 @@ La inteligencia de amenazas es inteligencia que ayuda a las organizaciones a tom
 
 ## Evaluación de amenazas y vulnerabilidades
 
-El filósofo Sun Tzu dijo una vez: “Conoce a tu enemigo y conócete a ti mismo, y no tendrás que temer el resultado de 100 batallas”. Para una ciberseguridad eficaz, es necesario comprender a los **posibles atacantes**, *sus motivaciones* y qué **herramientas** o **métodos** podrían emplear. Cuando comprendes a tus atacantes, puedes evaluar tus defensas con claridad y fortalecerlas de la manera correcta.
+El filósofo Sun Tzu dijo una vez: “Conoce a tu enemigo y conócete a ti mismo, y no tendrás que temer el resultado de 100 batallas”. Para una ciberseguridad eficaz, es necesario comprender a los **posibles atacantes**, _sus motivaciones_ y qué **herramientas** o **métodos** podrían emplear. Cuando comprendes a tus atacantes, puedes evaluar tus defensas con claridad y fortalecerlas de la manera correcta.
 
 Hay muchas amenazas de las que aprender. Con la persistencia cada vez mayor de los atacantes y la cantidad infinita de información disponible en línea, la inteligencia de amenazas puede ser abrumadora.
 
@@ -81,3 +81,23 @@ Luego de recopilar inteligencia de amenazas, ¿qué haces con ella? El ciclo de 
 La inteligencia de amenazas tiene un impacto directo en todos los aspectos de una organización, por lo que los resultados deben emplearse para guiar las evaluaciones de riesgos, las políticas y los procedimientos, la infraestructura de red y los controles de seguridad.
 
 Mientras que la inteligencia de amenazas implica recopilar información sobre posibles amenazas externas, una evaluación de amenazas es más específica para una organización. Es un proceso de comprensión de los puntos fuertes y débiles de los sistemas y la infraestructura de red particulares de una organización. En concreto, la evaluación de vulnerabilidades implica escanear redes, hosts, aplicaciones, bases de datos y activos inalámbricos. Una evaluación de vulnerabilidades define las vulnerabilidades, y luego las identifica, clasifica y prioriza para poder abordarlas. Por lo tanto, conoce a tus enemigos y sus amenazas potenciales. Y, conócete a ti mismo y tus vulnerabilidades y mitiga esos riesgos. De esta manera, no tendrás miedo de los ataques. Mediante tus conocimientos sobre evaluación de vulnerabilidades, puedes ayudar a garantizar la confidencialidad, integridad y disponibilidad de tu red.
+
+### Fuentes de inteligencia de amenazas
+
+El número de amenazas y los métodos en constante evolución que emplean los atacantes pueden abrumar a cualquier investigador. Por esta razón, muchas organizaciones comparten inteligencia específica sobre amenazas. Algunas reciben inteligencia directamente de otras organizaciones con las que colaboran.
+
+Algunos recursos están disponibles gratuitamente. La inteligencia de código abierto (OSINT) es inteligencia que cualquiera puede crear a partir de información disponible públicamente. Las fuentes comunes de OSINT incluyen blogs, bibliotecas, organizaciones de noticias, sitios web de empresas, redes sociales y registros públicos.
+
+Otros recursos requieren software de pago o subscripciones. Los editores de estos sitios web actualizan su contenido con frecuencia, a menudo dentro de un día o menos de las últimas noticias sobre los actores de amenazas, los tipos de amenazas y las técnicas de mitigación.
+
+#### Principales fuentes de la industria
+
+Ya sea que busque o genere inteligencia de amenazas, debe emplear una variedad de fuentes. La siguiente lista incluye algunas de las fuentes más respetadas de inteligencia de amenazas de la industria de la ciberseguridad:
+
+- Agencia de Seguridad de Infraestructura y Ciberseguridad(se abre en una nueva pestaña): el sitio web de la Agencia de Seguridad de Infraestructura y Ciberseguridad (CISA) es útil para descubrir amenazas actuales y denunciar problemas de ciberseguridad que experimente.
+
+- IBM X-Force Exchange(se abre en una nueva pestaña): IBM X-Force Exchange es una plataforma basada en la nube para descubrir las últimas amenazas, revisar reportes de inteligencia y colaborar con otros profesionales de ciberseguridad.
+
+- Yeti(se abre en una nueva pestaña): Yeti es un repositorio integral de datos de amenazas, incluidos IoC, presentados a través de interfaces de usuario fáciles de usar para humanos y máquinas.
+
+- InfraGard(se abre en una nueva pestaña): InfraGard es un programa de inteligencia de amenazas basado en membresía de la Oficina Federal de Investigaciones (FBI) que ofrece noticias, capacitación y orientación experta a organizaciones privadas.
