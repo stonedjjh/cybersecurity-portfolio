@@ -48,7 +48,7 @@ La política que más me afectó fue la Política de Segregación de Funciones (
 
 Los estándares y pautas definen las expectativas y los objetivos que se alinean con las políticas de la empresa y las leyes o estándares de la industria que se aplican a la organización. Deben contener resultados específicos y definiciones de éxito cuantificables. Pueden centrarse en llevar a cabo la política de la empresa, cumplir con los requisitos legales y los objetivos de la industria, o ambos.
 
-- **Estándares** Un estándar es un requisito cuantificable que todos los empleados deben seguir. Los estándares suelen crearse en un nivel de gestión inferior al de las políticas y, por lo general, reflejan los objetivos establecidos en las políticas y cómo alcanzarlos.  
+- **Estándares** Un estándar es un requisito cuantificable que todos los empleados deben seguir. Los estándares suelen crearse en un nivel de gestión inferior al de las políticas y, por lo general, reflejan los objetivos establecidos en las políticas y cómo alcanzarlos.
 
 En cuanto a la seguridad, estos estándares pueden incluir ajustes de configuración para dispositivos o sistemas operativos, por ejemplo, o requisitos para el uso de equipos de la empresa. El incumplimiento de estas normas podría afectar de forma negativa el funcionamiento o la reputación de la empresa. Y la empresa podría sancionar o despedir a un empleado por no cumplir con los estándares.
 
@@ -64,4 +64,15 @@ Por ejemplo, imagina que pediste una PC personalizada a una empresa llamada TCX.
 
 Procedimiento es el de desvinculación de empleados. Estos procedimientos proporcionan instrucciones paso a paso para manejar la salida de un empleado de la empresa. El departamento de TI puede tener varias responsabilidades. Por ejemplo, es posible que deba eliminar el acceso al sistema y a las aplicaciones, cambiar las contraseñas compartidas y recopilar el hardware y las claves de acceso del empleado.
 
+## Los Pilares Operacionales (Las Soluciones)
 
+IGA (Gobierno): La gobernanza y administración de identidades (Identity Governance and Administration IGA) es una solución que ayuda a las organizaciones a gestionar el ciclo de vida de la identidad de los usuarios y su acceso a aplicaciones y datos críticos. Proporciona flujos de trabajo automatizados y optimizados para crear, aprobar, modificar y revocar el acceso de los usuarios.
+
+PAM (Riesgo Crítico): La **gestión de accesos privilegiado** (PAM Privileged Access Management) es una solución que proporciona acceso seguro y controlado a cuentas privilegiadas, como las de los administradores de sistemas, para evitar el acceso no autorizado.
+
+CIEM (Riesgo en la Nube): Las soluciones de
+gestión de derechos de infraestructura en la nube (CIEM Cloud Infrastructure Entitlement Management) permiten a las organizaciones comprender sus derechos y permisos mediante el análisis y el mapeo de todas las identidades, roles, grupos y políticas en múltiples plataformas en la nube.
+
+## El Principio Rector
+
+POLP (Mitigación del Riesgo): El principio de privilegio mínimo (POLP Principle of Least Privilege) debe aplicarse en todos los entornos, donde los usuarios solo tienen las licencias necesarias para realizar su trabajo y nada más.
