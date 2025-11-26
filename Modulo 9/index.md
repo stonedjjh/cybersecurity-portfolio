@@ -14,9 +14,5 @@ Luego de completar este módulo, deberías poder realizar lo siguiente:
 Lecciones
 
 1. [Centro de operaciones de seguridad (SOC)](/Modulo%209/SOC.md)
-2. Equipos del centro de operaciones de seguridad
-3. Capacitación en concientización sobre seguridad
-
-## Contenido
-
-- [SOC](introduccion-operaciones-seguridad.md)
+2. [Equipos del centro de operaciones de seguridad](/Modulo%209/Equipos_SOC.md)
+3. [Capacitación en concientización sobre seguridad](/Modulo%209/Capacitacion.md)
