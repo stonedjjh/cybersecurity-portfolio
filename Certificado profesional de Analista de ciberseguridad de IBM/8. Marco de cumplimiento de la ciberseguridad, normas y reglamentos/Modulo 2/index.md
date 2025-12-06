@@ -13,3 +13,5 @@ Este módulo ofrece una introducción completa a la Administración de servicios
 [Implementación del Proceso ITIL](Implementación%20del%20Proceso%20ITIL.md)
 [Riesgo](Riesgo.md)
 [Análisis de Riesgos](Análisis%20de%20Riesgos.md)
+[Evaluación de riesgos y gestión por terceros](Evaluación%20de%20riesgos%20y%20gestión%20por%20terceros.md)
+[Ley de IA de la UE](Ley%20de%20IA%20de%20la%20UE.md)
