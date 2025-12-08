@@ -1,0 +1,13 @@
+# Marco de cumplimiento de la ciberseguridad, normas y reglamentos
+
+Las ciberamenazas suponen un reto constante en la actualidad, cuestan miles de millones y afectan a todo el mundo, desde los gobiernos a las pequeñas empresas. ¿Está preparado para contribuir a la solución? Este curso le proporcionará un profundo conocimiento de los principios de ciberseguridad, las normas del sector, la normativa y los procesos de auditoría. Explorará los conceptos fundamentales de la seguridad de la información y el cumplimiento, cubriendo temas como la gobernanza, el riesgo, el cumplimiento, los marcos de ciberseguridad y la gestión de procesos. También aprenderá sobre la gestión de servicios de TI y explorará el marco de gestión de riesgos del NIST y las consideraciones éticas de la IA. Obtendrá información sobre las leyes y regulaciones de ciberseguridad, centrándose en las perspectivas estadounidenses y globales, incluidas HIPPA, GDPR y PCI DSS. Además, se familiarizará con los procesos de auditoría utilizando el marco COBIT y los informes SOC. También explorará estándares prominentes como OWASP, ISO e IEEE, aprendiendo cómo aplicarlos de manera efectiva. A lo largo de este curso a su propio ritmo de cinco módulos, participará en actividades interactivas para aplicar sus conocimientos en escenarios del mundo real. También completarás un proyecto final para poner a prueba tus habilidades y demostrar tus conocimientos. ¡Únete a nosotros en este viaje por la ciberseguridad!
+
+## Contenido
+
+### [Modulo 2](./Modulo%202/index.md)
+
+Este módulo ofrece una introducción completa a la Administración de servicios de TI (ITSM), la gestión de riesgos y las consideraciones éticas en la inteligencia artificial (IA). Los participantes explorarán marcos y procesos clave esenciales para la prestación eficaz de servicios de TI, la mitigación de riesgos y la implementación ética de la IA. A través de una combinación de vídeos, lecturas, actividades y cuestionarios, los participantes adquirirán conocimientos prácticos sobre ITIL, marcos de gestión de riesgos y ética de la IA.
+
+### [Modulo 3](./Modulo%203)
+
+Este módulo ofrece una exploración en profundidad de las leyes y normativas de ciberseguridad, centrándose en las perspectivas estadounidense y mundial. Los participantes obtendrán información sobre legislaciones clave como HIPAA, GDPR y PCI DSS y aprenderán a garantizar el cumplimiento de estas normativas. A través de una combinación de vídeos, lecturas, actividades y cuestionarios, los participantes desarrollarán una comprensión exhaustiva de los marcos legales que rigen la ciberseguridad.
