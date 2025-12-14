@@ -1,4 +1,4 @@
-# Preguntas realizadas en el modulo
+# Preguntas realizadas en el módulo
 
 ## Los equipos de SOC utilizan en gran medida herramientas como IBM QRadar y análisis de IA. ¿Qué limitaciones o desafíos potenciales crees que podrían enfrentar los equipos SOC al usar estas herramientas?
 
