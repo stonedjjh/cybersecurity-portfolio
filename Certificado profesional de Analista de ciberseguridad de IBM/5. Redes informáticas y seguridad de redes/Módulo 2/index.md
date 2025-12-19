@@ -11,9 +11,8 @@ Tras completar este módulo, serás capaz de explicar y aplicar el direccionamie
 [Laboratorio: Máscaras de Subred y Cálculo de Hosts (IPv4 e IPv6)](../Docs/Direcciones%20IP%20y%20máscaras%20de%20subred.md)
 [Enrutamiento de red](enrutamiento%20de%20red.md)
 [Direccionamiento de Capa 2 y Capa 3](enrutamiento%20de%20red.md#Direccionamiento-de-Capa-2:-Direcciones-MAC)
-[Protocolo de resolución de direcciones](enrutamiento%20de%20red.md#Protocolo-de-Resolución-de-Direcciones-(ARP))
+[Protocolo de resolución de direcciones](<enrutamiento%20de%20red.md#Protocolo-de-Resolución-de-Direcciones-(ARP)>)
 [Enrutadores y tablas de enrutamiento, Parte 1](enrutamiento%20de%20red.md#ARP,-Routers-y-Tablas-de-Enrutamiento)
 [Enrutadores y tablas de enrutamiento, Parte 2](enrutamiento%20de%20red.md#Recorrido-del-Paquete-y-Múltiples-Redes)
 [Enrutadores y tablas de enrutamiento, Parte 3](enrutamiento%20de%20red.md#Tipos-de-Rutas-y-Lógica-de-Reenvío)
-
-
+[Glosario: Direccionamiento IP, Enrutamiento y Conmutación](Glosario%20Direccionamiento%20IP,%20Enrutamiento%20y%20Conmutación.md)

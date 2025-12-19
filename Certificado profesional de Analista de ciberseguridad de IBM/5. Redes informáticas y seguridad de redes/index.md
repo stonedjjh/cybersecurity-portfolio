@@ -34,6 +34,6 @@ En este módulo aprenderá sobre protocolos de red y medidas de seguridad, combi
 
 Este módulo le introduce en las técnicas de seguridad de redes, incluidas las tecnologías de cortafuegos, inspecciones con y sin estado, IDS y sistemas IPS. También examinará la Traducción de direcciones de red (NAT) y la supervisión de la integridad de los archivos, junto con medidas de seguridad avanzadas como la Prevención de pérdida de datos (DLP), el Control de acceso a la red y la Detección y respuesta en el punto final (EDR). Concluirá este módulo con un laboratorio práctico en el que podrá adquirir experiencia real con una aplicación de código abierto Extended Detection and Response (XDR).
 
-### [Módulo 5](./Módulo%205/index.md)
+### [Módulo 5](./Módulo%205/Resumen%20del%20proyecto%20final.md)
 
 En este módulo, aplicará los conocimientos del curso y las habilidades prácticas que adquirió en los módulos anteriores para completar su proyecto final revisado por pares. Durante su proyecto final, completará tareas del mundo real, incluido el diseño de una red con subredes, el cálculo de direcciones de subred y máscaras de subred, la configuración de cortafuegos y el análisis del tráfico de sitios web.

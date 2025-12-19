@@ -8,3 +8,4 @@ En este módulo, aprenderá sobre hardware de redes, incluidos routers y switche
 [Modelos, normas, protocolos y puertos](Redes%20informáticas.md#Modelos,-Estándares,-Protocolos-y-Puertos-de-Red)
 [Redes inalámbricas y normas](Redes%20informáticas.md#Redes-y-Estándares-Inalámbricos)
 [Tabla de protocolos](Redes%20informáticas.md#Protocolos-y-Puertos-Comunes)
+[Glosario Fundamentos de las redes](Glosario%20Fundamentos%20de%20las%20redes.md)
