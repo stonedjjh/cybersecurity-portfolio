@@ -46,21 +46,24 @@
 
 ### 🥈 Certificado profesional de Analista de ciberseguridad de IBM
 
-**Estado:** ⏳ **En Progreso** (2 de 14 cursos)
+**Estado:** ⏳ **En Progreso** (4 de 14 cursos)
 
-|                                                       Insignia                                                       | Certificación                                               | Plataforma   | Fecha de Emisión      | Enlace de Verificación                                                                         |
-| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------- | :----------- | :-------------------- | :--------------------------------------------------------------------------------------------- |
-| ![Insignia Intro. Herramientas y Ciberataques](images/badge/introduction-to-cybersecurity-tools-and-cyberattack.png) | **Introduction to Cybersecurity Tools and Cyberattack**     | IBM Coursera | 02 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/1e9f4f76-a0d3-4e91-acb9-57d2434ca5d3/public_url) |
-|     ![Insignia Operating Systems Overview](images/badge/operating-systems-overview-administration-and-secur.png)     | **Operating Systems Overview: Administration and Security** | IBM Coursera | 21 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/26070355-58c7-4f09-8f3a-b89fbbd42732/public_url) |
+|                                                                   Insignia                                                                    | Certificación                                                   | Plataforma   | Fecha de Emisión      | Enlace de Verificación                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------- | :----------- | :-------------------- | :--------------------------------------------------------------------------------------------- |
+|             ![Insignia Intro. Herramientas y Ciberataques](images/badge/introduction-to-cybersecurity-tools-and-cyberattack.png)              | **Introduction to Cybersecurity Tools and Cyberattack**         | IBM Coursera | 02 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/1e9f4f76-a0d3-4e91-acb9-57d2434ca5d3/public_url) |
+|                 ![Insignia Operating Systems Overview](images/badge/operating-systems-overview-administration-and-secur.png)                  | **Operating Systems Overview: Administration and Security**     | IBM Coursera | 21 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/26070355-58c7-4f09-8f3a-b89fbbd42732/public_url) |
+| ![Insignia Cybersecurity Compliance Framework, Standards & Regulations](images/badge/cybersecurity-compliance-framework-standards-regula.png) | **Cybersecurity Compliance Framework, Standards & Regulations** | IBM Coursera | 14 de Diciembre, 2025 | [Ver en Credly](https://www.credly.com/badges/2b1456a5-7455-4078-8329-4c389bafd6fa/public_url) |
+|              ![Insignia Network Security & Database Vulnerabilities](images/badge/network-security-database-vulnerabilities.png)              | **Network Security & Database Vulnerabilities**                 | IBM Coursera | 18 de Diciembre, 2025 | [Ver en Credly](https://www.credly.com/badges/109a151c-1701-4365-972c-889a1cf12f18/public_url) |
 
 ---
 
 ¡Otras credenciales
 
-|                                                 Insignia                                                 | Certificación                                                     | Plataforma      | Fecha de Emisión      | Enlace de Verificación                                                                           |
-| :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------- | :-------------- | :-------------------- | :----------------------------------------------------------------------------------------------- |
-|           ![Insignia Cybersecurity Fundamentals](images/badge/cybersecurity-fundamentals.png)            | **Cybersecurity Fundamentals**                                    | IBM SkillsBuild | 25 de Marzo, 2025     | [Ver en Credly](https://www.credly.com/earner/earned/badge/492722b6-67f9-4227-8708-545c39e70e0e) |
-| ![Insignia OPSWAT ICIP](images/badge/opswat-introduction-to-critical-infrastructure-protection-icip.png) | **OPSWAT: Intro. a Protección de Infraestructura Crítica (ICIP)** | OPSWAT          | 05 de Diciembre, 2024 | [Ver en Credly](https://www.credly.com/earner/earned/badge/8294ab98-8b32-4a27-9fd8-7375962e956c) |
+|                                                     Insignia                                                     | Certificación                                                     | Plataforma                   | Fecha de Emisión      | Enlace de Verificación                                                                           |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------- | :--------------------------- | :-------------------- | :----------------------------------------------------------------------------------------------- |
+|               ![Insignia Cybersecurity Fundamentals](images/badge/cybersecurity-fundamentals.png)                | **Cybersecurity Fundamentals**                                    | IBM SkillsBuild              | 25 de Marzo, 2025     | [Ver en Credly](https://www.credly.com/earner/earned/badge/492722b6-67f9-4227-8708-545c39e70e0e) |
+|     ![Insignia OPSWAT ICIP](images/badge/opswat-introduction-to-critical-infrastructure-protection-icip.png)     | **OPSWAT: Intro. a Protección de Infraestructura Crítica (ICIP)** | OPSWAT                       | 05 de Diciembre, 2024 | [Ver en Credly](https://www.credly.com/earner/earned/badge/8294ab98-8b32-4a27-9fd8-7375962e956c) |
+| ![Insignia de finalización de Cybersecurity](images/badge/Insignia%20de%20finalización%20de%20Cybersecurity.png) | **Insignia de finalización de Cybersecurity**                     | U.S.-ASEAN Center y Coursera | 17 de Diciembre, 2025 | [Ver en Coursera](https://coursera.org/share/f59f04ba6e45debf37b16592506940e6)                   |
 
 ---
 
