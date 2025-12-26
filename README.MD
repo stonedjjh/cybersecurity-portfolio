@@ -32,15 +32,16 @@
 
 ### 🥈 Certificado de Ciberseguridad de IBM SkillsBuild
 
-**Estado:** ⏳ **En Progreso** (5 de 6 Microcredenciales obtenidas)
+**Estado:** ⏳ **En Progreso** (6 de 6 Microcredenciales obtenidas)
 
-|                                          Insignia                                          | Certificación                                      | Plataforma      | Fecha de Emisión      | Enlace de Verificación                                                                           |
-| :----------------------------------------------------------------------------------------: | :------------------------------------------------- | :-------------- | :-------------------- | :----------------------------------------------------------------------------------------------- |
-|     ![Insignia GRC IBM](images/badge/governance-risk-compliance-and-data-privacy.png)      | **Governance, Risk, Compliance, and Data Privacy** | IBM SkillsBuild | 22 de Octubre, 2025   | [Ver en Credly](https://www.credly.com/earner/earned/badge/f76ec954-d7d8-4d76-90a4-cb4e3a6c7986) |
-|      ![Insignia Vulnerability Management](images/badge/vulnerability-management.png)       | **Vulnerability Management**                       | IBM SkillsBuild | 12 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/89ae4c2d-9574-47b5-9917-6717a79170db/public_url)   |
-|        ![System and Network Security](images/badge/system-and-network-security.png)        | **System and Network Security**                    | IBM SkillsBuild | 22 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/33ca6b26-b80f-4de3-ad80-d6852152d605/public_url)   |
-|                     ![Cloud Security](images/badge/cloud-security.png)                     | **Cloud Security**                                 | IBM SkillsBuild | 25 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/b186f67b-d9c6-48bf-abe8-802760fb95a0/public_url)   |
-| ![Security Operations and Management](images/badge/security-operations-and-management.png) | **Security Operations and Management**             | IBM SkillsBuild | 01 de Diciembre, 2025 | [Ver en Credly](https://www.credly.com/badges/46236b14-56be-4bd7-86c8-2ba5f41dedc1/public_url)   |
+|                                               Insignia                                               | Certificación                                      | Plataforma      | Fecha de Emisión      | Enlace de Verificación                                                                           |
+| :--------------------------------------------------------------------------------------------------: | :------------------------------------------------- | :-------------- | :-------------------- | :----------------------------------------------------------------------------------------------- |
+|          ![Insignia GRC IBM](images/badge/governance-risk-compliance-and-data-privacy.png)           | **Governance, Risk, Compliance, and Data Privacy** | IBM SkillsBuild | 22 de Octubre, 2025   | [Ver en Credly](https://www.credly.com/earner/earned/badge/f76ec954-d7d8-4d76-90a4-cb4e3a6c7986) |
+|           ![Insignia Vulnerability Management](images/badge/vulnerability-management.png)            | **Vulnerability Management**                       | IBM SkillsBuild | 12 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/89ae4c2d-9574-47b5-9917-6717a79170db/public_url)   |
+|             ![System and Network Security](images/badge/system-and-network-security.png)             | **System and Network Security**                    | IBM SkillsBuild | 22 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/33ca6b26-b80f-4de3-ad80-d6852152d605/public_url)   |
+|                          ![Cloud Security](images/badge/cloud-security.png)                          | **Cloud Security**                                 | IBM SkillsBuild | 25 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/b186f67b-d9c6-48bf-abe8-802760fb95a0/public_url)   |
+|      ![Security Operations and Management](images/badge/security-operations-and-management.png)      | **Security Operations and Management**             | IBM SkillsBuild | 01 de Diciembre, 2025 | [Ver en Credly](https://www.credly.com/badges/46236b14-56be-4bd7-86c8-2ba5f41dedc1/public_url)   |
+| ![Incident Response and Systems Forensics](images/badge/incident-response-and-systems-forensics.png) | **Incident Response and Systems Forensics**        | IBM SkillsBuild | 25 de Diciembre, 2025 | [Ver en Credly](https://www.credly.com/badges/d74494fa-ce58-4991-ab50-3dc104736eea/public_url)   |
 
 ---
 
