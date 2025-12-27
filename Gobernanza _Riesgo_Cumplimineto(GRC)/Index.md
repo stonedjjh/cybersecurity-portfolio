@@ -1,4 +1,4 @@
-# Indice de la sección de Gobernanza Riesgo y Cumplimiento(GRC)
+# Índice de la sección de Gobernanza Riesgo y Cumplimiento(GRC)
 
 [Gobernanza](Gobernanza.md)
 [Riesgo](Riesgo.md)

@@ -1,4 +1,4 @@
-# Indice
+# Índice
 
 Nadie puede prevenir todos los ataques cibernéticos. La seguridad de un sistema realmente radica en qué tan bien la organización puede responder a un ataque cuando ocurre. Esta respuesta incluye detener un ataque en curso. También incluye reparar y restaurar el sistema y analizar ataques para aprender de ellos y mejorar el sistema antes de que llegue el próximo ataque.
 
