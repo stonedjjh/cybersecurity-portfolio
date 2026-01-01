@@ -8,10 +8,10 @@ Este módulo comenzará con la demanda y la necesidad de profesionales de la Cib
 
 El módulo comenzará con la importancia de las habilidades técnicas fundamentales de TI en la ciberseguridad. También describirá en detalle cada habilidad técnica de TI que se requiere como profesional de la ciberseguridad. La siguiente lección cubrirá las habilidades técnicas de ciberseguridad y algunos hechos relacionados con cada habilidad. A continuación aprenderá la importancia de las habilidades blandas y por qué cada una de ellas es necesaria en ciberseguridad. Por último, aprenderá las habilidades que corresponden a cada función laboral en ciberseguridad.
 
-## Módulo 3
+## [Módulo 3](../1.%20Introducción%20a%20las%20carreras%20de%20ciberseguridad/Módulo%203/index.md)
 
 El módulo comenzará con los beneficios de las certificaciones de ciberseguridad. Dará algunos datos sobre las certificaciones de ciberseguridad. A continuación, conocerá las certificaciones importantes para diferentes funciones de ciberseguridad bajo encabezados principales como CompTIA, ISC2 y otras certificaciones. También descubrirá los factores que debe tener en cuenta al prepararse para el examen y cómo programarlo y realizarlo.
 
-## Módulo 4
+## [Módulo 4](../1.%20Introducción%20a%20las%20carreras%20de%20ciberseguridad/Módulo%204/index.md)
 
 El módulo comenzará con el resumen del curso y un glosario acumulativo. También realizará una evaluación final seguida de un resumen del curso. Los expertos te darán consejos para una carrera en ciberseguridad.
