@@ -49,10 +49,11 @@ https://www.credly.com/badges/dab0b14a-b6ee-4495-85cc-861aec49c47d/public_url
 
 ### 🥈 Certificado profesional de Analista de ciberseguridad de IBM
 
-**Estado:** ⏳ **En Progreso** (4 de 14 cursos)
+**Estado:** ⏳ **En Progreso** (5 de 14 cursos)
 
 |                                                                   Insignia                                                                    | Certificación                                                   | Plataforma   | Fecha de Emisión      | Enlace de Verificación                                                                         |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------- | :----------- | :-------------------- | :--------------------------------------------------------------------------------------------- |
+|                   ![Insignia Introduction to Cybersecurity Careers](images/badge/introduction-to-cybersecurity-careers.png)                   | **Introduction to Cybersecurity Careers**                       | IBM Coursera | 01 de Enero, 2026     | [Ver en Credly](https://www.credly.com/badges/76e0f6a4-60b1-42e7-9ef9-d546201c9501/public_url) |
 |             ![Insignia Intro. Herramientas y Ciberataques](images/badge/introduction-to-cybersecurity-tools-and-cyberattack.png)              | **Introduction to Cybersecurity Tools and Cyberattack**         | IBM Coursera | 02 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/1e9f4f76-a0d3-4e91-acb9-57d2434ca5d3/public_url) |
 |                 ![Insignia Operating Systems Overview](images/badge/operating-systems-overview-administration-and-secur.png)                  | **Operating Systems Overview: Administration and Security**     | IBM Coursera | 21 de Noviembre, 2025 | [Ver en Credly](https://www.credly.com/badges/26070355-58c7-4f09-8f3a-b89fbbd42732/public_url) |
 | ![Insignia Cybersecurity Compliance Framework, Standards & Regulations](images/badge/cybersecurity-compliance-framework-standards-regula.png) | **Cybersecurity Compliance Framework, Standards & Regulations** | IBM Coursera | 14 de Diciembre, 2025 | [Ver en Credly](https://www.credly.com/badges/2b1456a5-7455-4078-8329-4c389bafd6fa/public_url) |
