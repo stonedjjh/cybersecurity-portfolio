@@ -278,6 +278,19 @@ Lideré la investigación de un incidente simulado de compromiso de datos en una
 
 ---
 
+## 🚨 Casos Reales y Respuesta a Incidentes (Post-Mortem)
+
+En esta sección documento incidentes reales en los que he participado activamente en la detección, análisis y contención, aplicando conocimientos de ciberseguridad en entornos de producción.
+
+### 🛑 Incidente de Seguridad: Ejecución Fileless vía FakeCAPTCHA (ClickFix)
+- **Rol:** Analista de Soporte / Respuesta a Incidentes (Detección y Contención)
+- **Vector de Ataque:** Ingeniería Social (FakeCAPTCHA / ClickFix) derivando en ejecución de PowerShell.
+- **Acciones Realizadas:** Detección de la vulnerabilidad durante sesión de soporte, análisis de registros de eventos (Event ID 400), correlación con historial de navegación web y contención mediante aislamiento del equipo.
+- **Impacto Mitigado:** Prevención de Ejecución Remota de Código (RCE), robo de credenciales y potencial movimiento lateral en la red de la organización.
+  > 📂 **Documentación del Caso:** [Post-Mortem: Incidente FakeCAPTCHA](./Docs/Casos_Reales/PostMortem_FakeCaptcha_PowerShell.md)
+
+---
+
 ## 🛠️ Portafolio de Soluciones y Casos Prácticos
 
 Esta sección organiza mis intervenciones técnicas y análisis de casos específicos, proporcionando acceso directo a la documentación y metodología aplicada en cada escenario.
